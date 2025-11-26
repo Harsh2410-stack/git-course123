@@ -1,5 +1,2 @@
 hey take input from the user  
-
-creating different branch 
-
-create an event 
+name, age, id_no
